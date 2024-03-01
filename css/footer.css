@@ -1,0 +1,160 @@
+footer{
+    margin-top: 20px;
+    max-width: 100%;
+    /* display: flex; */
+    flex-shrink: 0;
+}
+
+
+.foot-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    font-size: 13px;
+    width: 100%;
+}
+
+.foot2{
+    height: 320px;
+    /* flex: 1  ; */
+    /* flex-wrap: wrap; */
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 14px;
+    background-color: #2e2f3e;
+    line-height: 30px;
+    padding: 40px;
+    max-width: 100%;
+}
+
+.foot2 ul a{
+    display: block;
+    text-decoration: none;
+}
+
+.foot2 ul a:hover{
+    text-decoration: underline;
+}
+
+.amazon-foot{
+    height: 80px;
+    width: 100%;
+    background-color: #2e2f3e;
+    border-top:1px solid snow ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.foot-img img{
+    /* background-image: url(/images/amazon_logo.png); */
+    width: 76px;
+    height: 23px;
+    object-fit: cover;
+    margin-right: 100px;
+    
+}
+
+.world-logo{
+    display: flex;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.world-logo p{
+    margin-left: 14px;
+    font-size: 13px;
+    color: #cccccc;
+}
+
+.world-logo i{
+    font-size: 13px;
+    color: #ffffff;
+}
+
+.last{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-left: 10px;
+    width: 130px;
+    height: 30px;
+    border: 1px solid #cccccc;
+    font-size: 13px;
+    /* color: #cccccc; */
+    border-radius: 3px;
+}
+
+.last p{
+    color: #cccccc;
+    margin-left: 10px;
+    margin-top: 7px;
+    
+}
+
+
+.last img{
+    width: 18px;
+    height: 12px;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.lang{
+    border: 1px #cccccc solid;
+    height: 30px;
+    width: 120px;
+    border-radius: 3px;
+}
+
+.state{
+    margin-left: 10px;
+    display: flex;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+
+.dollar{
+    display: flex;
+    justify-content: center;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.dollar p{
+    margin-left: 9px;
+    font-size: 13px;
+    color: #cccccc;
+}
+
+.dollar i{
+    font-size: 13px;
+    color: #ffffff;
+}
+
+.foot-panel4{
+    background-color: #0f1111;
+    padding-top: 10px;
+    font-size: 12px;
+    color: #dddddd;
+    text-align: center;
+    line-height: 25px;
+    height: 77px;
+}
+
+.copy a{
+    /* padding-top: 5px; */
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.copy a:hover{
+    text-decoration: underline;
+}
+
+

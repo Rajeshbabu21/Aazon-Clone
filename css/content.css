@@ -1,0 +1,88 @@
+.content-options{
+    height: 40px;
+    width: 100%;
+    background-color: #232f3e;
+}
+
+.options{
+    width: 510px;
+    height: 40px;
+    /* background-color:blue; */
+    margin-left: 14px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.hamberger{
+    display: flex; 
+    margin-left: 7px;
+    margin-top: 8px;
+}
+
+.hamberger p{
+    font-weight: bold;
+}
+
+.options p{
+    font-size: 14px;
+    margin-left: 4px;
+}
+
+.c1{
+    height: 33px;
+    width: 48px;
+}
+
+.c2{
+    height: 33px;
+    width: 100px;
+
+}
+
+.c2 p{
+    margin-top: 8px;
+    margin-left: 6px;
+}
+
+.c3{
+    height: 33px;
+    width: 125px;
+}
+
+.c3 p{
+    margin-top: 8px;
+    margin-left: 7px;
+}
+
+.c4{
+    height: 33px;
+    width: 65px;
+}
+
+.c4 p{
+    margin-top: 8px;
+    margin-left: 6px;
+}
+
+.c5{
+    height: 33px;
+    width: 75px;
+}
+
+.c5 p{
+    margin-top: 8px;
+    margin-left: 7px;
+}
+
+.c6{
+    height: 33px;
+    width: 48px;
+}
+
+.c6 p{
+    margin-top: 8px;
+    margin-left: 7px;
+}
+
